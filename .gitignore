@@ -1,0 +1,6 @@
+*.mp4
+**/.idea
+**/media
+**/__pycache__
+*.pickle
+*.pdf
